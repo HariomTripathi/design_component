@@ -6,7 +6,7 @@ import './App.css'
 import { Provider } from 'react-redux'
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <div className='h-screen' >
